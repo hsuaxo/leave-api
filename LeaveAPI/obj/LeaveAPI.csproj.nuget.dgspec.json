@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\test\\insyspr\\leave-api\\LeaveAPI\\LeaveAPI.csproj": {}
+    "D:\\Downloads\\leave-api\\LeaveAPI\\LeaveAPI.csproj": {}
   },
   "projects": {
-    "D:\\code\\test\\insyspr\\leave-api\\LeaveAPI\\LeaveAPI.csproj": {
+    "D:\\Downloads\\leave-api\\LeaveAPI\\LeaveAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\test\\insyspr\\leave-api\\LeaveAPI\\LeaveAPI.csproj",
+        "projectUniqueName": "D:\\Downloads\\leave-api\\LeaveAPI\\LeaveAPI.csproj",
         "projectName": "LeaveAPI",
-        "projectPath": "D:\\code\\test\\insyspr\\leave-api\\LeaveAPI\\LeaveAPI.csproj",
+        "projectPath": "D:\\Downloads\\leave-api\\LeaveAPI\\LeaveAPI.csproj",
         "packagesPath": "C:\\Users\\hamle\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\test\\insyspr\\leave-api\\LeaveAPI\\obj\\",
+        "outputPath": "D:\\Downloads\\leave-api\\LeaveAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamle\\AppData\\Roaming\\NuGet\\NuGet.Config",
